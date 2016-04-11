@@ -15,7 +15,7 @@ Note that attempts will be made to keep the branches up to date but this isn't g
 ### Running the app
 
 ```bash
-npm install
+meteor npm install
 meteor
 ```
 
